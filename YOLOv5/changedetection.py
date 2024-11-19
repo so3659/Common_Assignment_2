@@ -8,7 +8,7 @@ class ChangeDetection:
     result_prev = []
     HOST = 'http://127.0.0.1:8000'
     username = 'so3659'
-    password = 'so36593659'
+    password = '******'
     token = ''
     title = ''
     text = ''
